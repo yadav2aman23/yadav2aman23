@@ -1,4 +1,4 @@
-👋 Hi, I'm Aman Yadav
+👋 Hi, I'm Aman Kumar Yadav
 
 🎓 B.Tech CSE (IoT & Cybersecurity) | 💻 Programmer | 🔐 Cybersecurity & Pentesting Learner | 🌐 IoT Enthusiast
 
@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2C5364&center=true&vCenter=true&width=700&lines=Initializing+Aman+Yadav...;B.Tech+CSE+%7C+IoT+%26+Cybersecurity;Cybersecurity+%7C+IoT+%7C+Programming;Learning+%7C+Building+%7C+Securing;System+Status%3A+ONLINE+%E2%9C%93" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2C5364&center=true&vCenter=true&width=700&lines=Initializing+Aman+kumar+Yadav...;B.Tech+CSE+%7C+IoT+%26+Cybersecurity;Cybersecurity+%7C+IoT+%7C+Programming;Learning+%7C+Building+%7C+Securing;System+Status%3A+ONLINE+%E2%9C%93" />
 </p>
 
 <p align="center">
