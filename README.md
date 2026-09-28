@@ -1,96 +1,192 @@
-# 👋 Hey, I'm Aman Choudhary
+👋 Hi, I'm Aman Yadav
 
-### 🛡️ Cybersecurity Student | IoT Security Enthusiast | Ethical Hacking Learner
+🎓 B.Tech CSE (IoT & Cybersecurity) | 💻 Programmer | 🔐 Cybersecurity & Pentesting Learner | 🌐 IoT Enthusiast
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Aman%20Yadav&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+</p><p align="center">
+  <a href="https://github.com/yadav2aman23">
+    <img src="https://img.shields.io/badge/GitHub-yadav2aman23-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>---
 
----
+👨‍💻 About Me
 
-## 🚀 About Me
+I'm a B.Tech CSE student specializing in IoT & Cybersecurity, interested in programming, networking, Linux, IoT, cybersecurity and practical technology projects.
 
-🎓 B.Tech student specializing in **IoT & Cybersecurity**
+I enjoy understanding how systems work, building projects with hardware and software, and developing my cybersecurity skills through legal labs, CTFs and controlled environments.
 
-🔐 Interested in **Cybersecurity, Web Pentesting & Bug Bounty**
+🔹 My Core Areas
 
-🌐 Exploring **Network Security, Ethical Hacking & IoT Security**
-
-💻 Currently improving my skills in **Python, C++, Linux & DSA**
-
-🏆 Participated in multiple hackathons and worked on real-world IoT projects
-
-🧪 Building cybersecurity labs using **Kali Linux, VMware, Windows Server & Linux**
-
-🎯 My goal is to become a skilled **Cybersecurity Professional**
-
----
-
-## 🧠 Tech Stack
-
-### 💻 Programming
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,c,python,js,html,css" />
-</p>
-
-### 🔐 Cybersecurity
-<p>
-<img src="https://skillicons.dev/icons?i=kali,linux,bash" />
-</p>
-
-**Tools & Technologies**
-
-`Nmap` • `Wireshark` • `Metasploit` • `Burp Suite` • `OWASP`  
-`SQL Injection` • `Web Pentesting` • `Network Security` • `Bug Bounty`
-
-### 🌐 IoT & Hardware
-
-<p>
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
-</p>
-
-`ESP32` • `ESP8266` • `Arduino` • `Sensors` • `Firebase`
-
-### 🛠️ Development Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,nodejs,firebase" />
-</p>
+- 💻 Programming & Problem Solving
+- 🔐 Cybersecurity & Ethical Hacking
+- 🌐 Networking & Server Handling
+- 🐧 Linux & Bash
+- 📡 IoT & Embedded Systems
+- 🧪 Web & Network Pentesting
+- 🏆 Hackathons & Technical Projects
+- 🎯 Examination & Event Management
 
 ---
 
-## 🔥 Featured Projects
+🧑‍💻 Programming Languages
 
-### 🚦 Smart Traffic Light System
-> IoT-based emergency vehicle traffic management system.
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,bash" />
+</p>Technology| Focus
+🟦 C| Programming Fundamentals
+🟦 C++| OOP, DSA & Problem Solving
+🐍 Python| Scripting & Automation
+☕ Java| Programming Fundamentals
+🐧 Bash| Linux Shell & Automation
 
-- 🚑 Detects emergency vehicles
-- 📍 GPS-based location tracking
+---
+
+🔐 Cybersecurity
+
+I'm developing my practical cybersecurity skills through labs, CTFs, learning platforms and authorized environments.
+
+🛡️ Areas I'm Exploring
+
+- 🔎 Reconnaissance
+- 🌐 Network Security
+- 🕸️ Web Security
+- 🧪 Vulnerability Assessment
+- 🔐 Authentication & Access Control
+- 💉 SQL Injection Concepts
+- 🛡️ OWASP Security Concepts
+- 📡 Network Analysis
+- 🐧 Linux Security
+- 🏴‍☠️ Ethical Hacking / Pentesting
+
+🧰 Security Tools
+
+Currently learning / working with:
+
+Nmap
+Metasploit Framework
+Wireshark
+Burp Suite
+Gobuster
+Nikto
+Netcat
+John the Ripper
+Hydra
+SQLmap
+WhatWeb
+Amass
+
+«🔐 My cybersecurity practice is focused on authorized labs, CTFs, educational environments and systems where I have permission to test.»
+
+---
+
+🌐 Networking & Server
+
+I have practical exposure to networking and server handling, including Linux and Windows-based environments.
+
+Networking
+
+- 🌐 TCP/IP
+- 🔌 Ports & Protocols
+- 📡 LAN / WAN Concepts
+- 🔎 Network Discovery
+- 🧭 DNS
+- 🖥️ IP Addressing
+- 🔥 Firewall Concepts
+- 🔐 Network Security Basics
+- 🛠️ Network Troubleshooting
+
+Server & System Administration
+
+- 🐧 Linux Server
+- 🪟 Windows Server
+- 🌐 DNS
+- 🏢 Active Directory
+- 👤 User & Group Management
+- 🔑 Authentication
+- 🖥️ Virtual Machines
+- 🔧 Basic Server Troubleshooting
+
+---
+
+📡 IoT & Embedded Systems
+
+As a B.Tech CSE student specializing in IoT & Cybersecurity, I also work with hardware and embedded systems.
+
+🔧 Technologies
+
+<p>
+<img src="https://skillicons.dev/icons?i=arduino,cpp,python,firebase" />
+</p>Hardware
+
+ESP32
+ESP8266
+Arduino UNO
+RFID
+GPS
+GSM
+Sensors
+INMP441 Microphone
+Electronic Components
+
+IoT Interests
+
+- 📡 IoT Communication
+- 🔐 IoT Security
+- 🔌 Embedded Systems
+- 📊 Sensor Data Monitoring
+- ☁️ Firebase Integration
+- 🌐 IoT Networking
+- 🛡️ Secure IoT Architecture
+
+---
+
+🚀 Featured Projects
+
+🚦 Smart Traffic Light System
+
+An IoT-based emergency vehicle traffic management system.
+
+Features
+
+- 🚑 Emergency vehicle detection
+- 📍 GPS-based location
 - 📡 Wireless communication
-- 🚦 Automatically controls traffic signals
-- 🔧 Built using ESP32 / Arduino and sensors
+- 🚦 Automatic traffic signal control
+- 🔋 Battery-powered hardware
 
-🔗 **[View Project](YOUR_PROJECT_LINK)**
+Technologies:
+
+"ESP32" "Arduino" "GPS" "GSM" "IoT"
 
 ---
 
-### 📚 GGI Library Noise Monitor
+📚 Library Noise Monitoring System
 
-> ESP32-based library noise monitoring system.
+An ESP32-based system designed to monitor noise levels in a library environment.
+
+Features
 
 - 🎤 INMP441 microphone
 - 📊 Real-time noise monitoring
 - ☁️ Firebase Realtime Database
 - 🚨 Noise threshold detection
-- 📈 Dashboard-based monitoring
+- 📈 Remote monitoring
 
-🔗 **[View Project](YOUR_PROJECT_LINK)**
+Technologies:
+
+"ESP32" "INMP441" "Firebase" "IoT"
 
 ---
 
-### 🕵️ QR Treasure Hunt
+🕵️ QR Treasure Hunt
 
-> Interactive QR-based treasure hunt platform with team registration and admin controls.
+An interactive QR-based treasure hunt platform with team registration and administrative controls.
+
+Features
 
 - 📱 QR code scanning
 - 👥 Team registration
@@ -99,45 +195,152 @@
 - 🛠️ Admin dashboard
 - 📊 Live monitoring
 
-🔗 **[View Project](YOUR_PROJECT_LINK)**
+Technologies:
+
+"Node.js" "Vite" "Fastify" "Prisma" "PostgreSQL" "QR"
 
 ---
 
-## 🏆 Achievements
+🏆 Hackathons & Technical Activities
 
-🏅 Participated in **3+ Hackathons**
-
-🥇 Secured top positions in multiple hackathon events
-
-💰 Won **₹10,000 Cash Prize** at a 36-hour Hackathon
-
-👨‍💻 Worked on IoT and cybersecurity-based projects
-
-🔧 Hands-on experience with hardware and embedded systems
+- 🏆 Participated in multiple hackathons
+- 👥 Worked in team-based development
+- 🔧 Built IoT and software prototypes
+- ⏱️ Experience working under tight deadlines
+- 💡 Problem solving and rapid prototyping
+- 💰 Won a ₹10,000 cash prize in a 36-hour hackathon
 
 ---
 
-## 📚 Currently Learning
+📋 Examination & Event Management
 
-```text
+Along with technical skills, I have experience in examination coordination and event management.
+
+Experience Includes
+
+- 📝 Examination coordination
+- 👥 Student management
+- 🏫 Examination center management
+- 💻 Computer/network coordination
+- 🖥️ System & server handling
+- 📋 Documentation and reporting
+- 🤝 Team coordination
+
+Examination Coordination Experience
+
+CDAC
+
+Experience related to examination coordination and center management.
+
+L&T
+
+Experience related to examination coordination and center management.
+
+---
+
+🧰 Tools & Development Environment
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=linux,kali,windows,vscode,git,github,arduino,firebase,nodejs" />
+</p>Tools & Platforms
+
+VS Code
+Git
+GitHub
+Kali Linux
+Linux
+Windows
+VMware
+Arduino IDE
+Firebase
+Node.js
+
+---
+
+📚 Currently Learning
+
 Cybersecurity
-   ├── Web Pentesting
-   ├── Bug Bounty
-   ├── Network Security
-   ├── OWASP
-   └── Vulnerability Assessment
+│
+├── Network Security
+├── Web Security
+├── OWASP
+├── Pentesting
+├── Reconnaissance
+└── Vulnerability Assessment
 
 Programming
-   ├── Python
-   ├── C++
-   └── JavaScript
+│
+├── C
+├── C++
+├── Python
+├── Java
+└── Bash
 
 Computer Science
-   ├── DSA
-   ├── Computer Networks
-   └── Operating Systems
+│
+├── Data Structures & Algorithms
+├── Computer Networks
+├── Operating Systems
+└── Database Concepts
 
-IoT Security
-   ├── ESP32
-   ├── Embedded Systems
-   └── IoT Network Security
+IoT
+│
+├── ESP32
+├── Embedded Systems
+├── IoT Networking
+└── IoT Security
+
+---
+
+🎯 2026 Goals
+
+- [ ] Improve C++ & DSA
+- [ ] Strengthen Python
+- [ ] Improve Java fundamentals
+- [ ] Advance Linux skills
+- [ ] Strengthen networking fundamentals
+- [ ] Practice OWASP Top 10
+- [ ] Improve web pentesting skills
+- [ ] Build cybersecurity labs
+- [ ] Build more IoT projects
+- [ ] Learn IoT Security
+- [ ] Contribute to Open Source
+- [ ] Build a strong cybersecurity portfolio
+
+---
+
+📊 GitHub Stats
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=yadav2aman23&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" /><img src="https://github-readme-streak-stats.herokuapp.com/?user=yadav2aman23&theme=tokyonight&hide_border=true" /></p>---
+
+💻 Most Used Languages
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yadav2aman23&layout=compact&theme=tokyonight&hide_border=true" /></p>---
+
+🌐 Connect With Me
+
+<p align="center"><a href="https://github.com/yadav2aman23">
+<img src="https://img.shields.io/badge/GitHub-yadav2aman23-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a><a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a></p>---
+
+⚡ Beyond Code
+
+💡 Building IoT projects
+🔐 Exploring cybersecurity
+🐧 Working with Linux
+🌐 Learning networking
+🏆 Participating in hackathons
+🧪 Building security labs
+📚 Continuously learning
+
+---
+
+<p align="center">🔐 Learn • Build • Secure
+
+Thanks for visiting my profile! 🚀
+
+</p><p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=100&section=footer" />
+</p>
