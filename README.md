@@ -4,14 +4,40 @@
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Aman%20Yadav&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
-</p><p align="center">
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2C5364&center=true&vCenter=true&width=700&lines=Initializing+Aman+Yadav...;B.Tech+CSE+%7C+IoT+%26+Cybersecurity;Cybersecurity+%7C+IoT+%7C+Programming;Learning+%7C+Building+%7C+Securing;System+Status%3A+ONLINE+%E2%9C%93" />
+</p>
+
+<p align="center">
   <a href="https://github.com/yadav2aman23">
     <img src="https://img.shields.io/badge/GitHub-yadav2aman23-181717?style=for-the-badge&logo=github" />
   </a>
   <a href="https://www.linkedin.com/">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
-</p>---
+</p>
+
+<br>
+
+<h3 align="center">🖥️ SYSTEM BOOT</h3>
+
+```text
+┌──────────────────────────────────────────────────────────┐
+│                                                          │
+│   > Initializing profile...                         [OK] │
+│   > Loading C / C++ / Python / Java                 [OK] │
+│   > Loading Linux & Bash environment                [OK] │
+│   > Initializing IoT development stack              [OK] │
+│   > Loading Cybersecurity tools                     [OK] │
+│   > Initializing Penetration Testing environment    [OK] │
+│                                                          │
+│   USER    : Aman Yadav                                  │
+│   DOMAIN  : IoT & Cybersecurity                         │
+│   STATUS  : ONLINE                                      │
+│                                                          │
+└──────────────────────────────────────────────────────────┘
 
 👨‍💻 About Me
 
