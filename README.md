@@ -22,22 +22,7 @@
 <br>
 
 <h3 align="center">🖥️ SYSTEM BOOT</h3>
-
-```text
-┌──────────────────────────────────────────────────────────┐
-│                                                          │
-│   > Initializing profile...                         [OK] │
-│   > Loading C / C++ / Python / Java                 [OK] │
-│   > Loading Linux & Bash environment                [OK] │
-│   > Initializing IoT development stack              [OK] │
-│   > Loading Cybersecurity tools                     [OK] │
-│   > Initializing Penetration Testing environment    [OK] │
-│                                                          │
-│   USER    : Aman Yadav                                  │
-│   DOMAIN  : IoT & Cybersecurity                         │
-│   STATUS  : ONLINE                                      │
-│                                                          │
-└──────────────────────────────────────────────────────────┘
+  
 
 👨‍💻 About Me
 
