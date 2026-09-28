@@ -1,102 +1,143 @@
-<div align="center">
+# 👋 Hey, I'm Aman Choudhary
 
-<img src="./assets/danish-terminal-opening.gif"
-     width="100%"
-     alt="Danish - Developer Profile">
+### 🛡️ Cybersecurity Student | IoT Security Enthusiast | Ethical Hacking Learner
 
-</div>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+</p>
 
 ---
 
-## `whoami`
+## 🚀 About Me
 
-<pre>
-Name        → Aman Kumar Yadav 
-Role        → Engineering Student
-Environment → Linux
-Languages   → C · C++ · Python · 
-Interests   → AI · Cybersecurity · Automation · IoT
-Currently   → Building · Learning · Experimenting
-</pre>
+🎓 B.Tech student specializing in **IoT & Cybersecurity**
 
----
+🔐 Interested in **Cybersecurity, Web Pentesting & Bug Bounty**
 
-## 👨‍💻 About Me
+🌐 Exploring **Network Security, Ethical Hacking & IoT Security**
 
-I'm an Engineering student interested in **software development, systems,
-automation and emerging technologies**.
+💻 Currently improving my skills in **Python, C++, Linux & DSA**
 
-My main areas of interest include:
+🏆 Participated in multiple hackathons and worked on real-world IoT projects
 
-- 💻 Software Development
-- 🧩 Data Structures & Algorithms
-- 🐧 Linux & Open Source
-- 🤖 Artificial Intelligence & Machine Learning
-- 🔐 Cybersecurity
-- 🕷️ Web Scraping & Browser Automation
-- 🌐 IoT & Connected Systems
-- ☁️ Cloud Computing
+🧪 Building cybersecurity labs using **Kali Linux, VMware, Windows Server & Linux**
 
-I prefer learning by **building real projects** rather than just collecting
-technology names in a README.
+🎯 My goal is to become a skilled **Cybersecurity Professional**
 
 ---
 
-## 🛠️ Tech Stack
+## 🧠 Tech Stack
 
-### 💻 Languages
-
+### 💻 Programming
 <p>
-<img src="https://img.shields.io/badge/C-111827?style=flat-square&logo=c&logoColor=A8B9CC">
-<img src="https://img.shields.io/badge/C%2B%2B-111827?style=flat-square&logo=cplusplus&logoColor=00599C">
-<img src="https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=3776AB">
-<img src="https://img.shields.io/badge/JavaScript-111827?style=flat-square&logo=javascript&logoColor=F7DF1E">
-<img src="https://img.shields.io/badge/TypeScript-111827?style=flat-square&logo=typescript&logoColor=3178C6">
+<img src="https://skillicons.dev/icons?i=cpp,c,python,js,html,css" />
 </p>
 
-### 🌐 Web & Mobile
-
+### 🔐 Cybersecurity
 <p>
-<img src="https://img.shields.io/badge/HTML5-111827?style=flat-square&logo=html5&logoColor=E34F26">
-<img src="https://img.shields.io/badge/CSS3-111827?style=flat-square&logo=css3&logoColor=1572B6">
-<img src="https://img.shields.io/badge/React-111827?style=flat-square&logo=react&logoColor=61DAFB">
-<img src="https://img.shields.io/badge/React_Native-111827?style=flat-square&logo=react&logoColor=61DAFB">
-<img src="https://img.shields.io/badge/Redux-111827?style=flat-square&logo=redux&logoColor=764ABC">
-<img src="https://img.shields.io/badge/Tailwind_CSS-111827?style=flat-square&logo=tailwindcss&logoColor=06B6D4">
-<img src="https://img.shields.io/badge/Bootstrap-111827?style=flat-square&logo=bootstrap&logoColor=7952B3">
-<img src="https://img.shields.io/badge/Android-111827?style=flat-square&logo=android&logoColor=3DDC84">
+<img src="https://skillicons.dev/icons?i=kali,linux,bash" />
 </p>
 
-### 🕷️ Automation & Scraping
+**Tools & Technologies**
+
+`Nmap` • `Wireshark` • `Metasploit` • `Burp Suite` • `OWASP`  
+`SQL Injection` • `Web Pentesting` • `Network Security` • `Bug Bounty`
+
+### 🌐 IoT & Hardware
 
 <p>
-<img src="https://img.shields.io/badge/Selenium-111827?style=flat-square&logo=selenium&logoColor=43B02A">
-<img src="https://img.shields.io/badge/Playwright-111827?style=flat-square&logo=playwright&logoColor=2EAD33">
-<img src="https://img.shields.io/badge/Puppeteer-111827?style=flat-square&logo=puppeteer&logoColor=40B5A4">
-<img src="https://img.shields.io/badge/BeautifulSoup-111827?style=flat-square&logo=python&logoColor=3776AB">
-<img src="https://img.shields.io/badge/Scrapy-111827?style=flat-square&logo=scrapy&logoColor=60A839">
-<img src="https://img.shields.io/badge/Requests-111827?style=flat-square&logo=python&logoColor=3776AB">
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
 </p>
 
-### 🤖 AI & Machine Learning
+`ESP32` • `ESP8266` • `Arduino` • `Sensors` • `Firebase`
+
+### 🛠️ Development Tools
 
 <p>
-<img src="https://img.shields.io/badge/Artificial_Intelligence-111827?style=flat-square&logo=openai&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/Machine_Learning-111827?style=flat-square&logo=scikitlearn&logoColor=F7931E">
-<img src="https://img.shields.io/badge/Generative_AI-111827?style=flat-square&logo=openai&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/LLMs-111827?style=flat-square&logo=ollama&logoColor=FFFFFF">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,nodejs,firebase" />
 </p>
 
-### ☁️ Cloud & Backend
+---
 
-<p>
-<img src="https://img.shields.io/badge/Cloud_Computing-111827?style=flat-square&logo=icloud&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/REST_APIs-111827?style=flat-square&logo=fastapi&logoColor=009688">
-<img src="https://img.shields.io/badge/Backend_Development-111827?style=flat-square&logo=node.js&logoColor=339933">
-</p>
+## 🔥 Featured Projects
 
-### 🌐 IoT & Connected Systems
+### 🚦 Smart Traffic Light System
+> IoT-based emergency vehicle traffic management system.
 
-<p>
-<img src="https://img.shields.io/badge/IoT-111827?style=flat-square&logo=arduino&logoColor=00979D">
-<img src="https://i
+- 🚑 Detects emergency vehicles
+- 📍 GPS-based location tracking
+- 📡 Wireless communication
+- 🚦 Automatically controls traffic signals
+- 🔧 Built using ESP32 / Arduino and sensors
+
+🔗 **[View Project](YOUR_PROJECT_LINK)**
+
+---
+
+### 📚 GGI Library Noise Monitor
+
+> ESP32-based library noise monitoring system.
+
+- 🎤 INMP441 microphone
+- 📊 Real-time noise monitoring
+- ☁️ Firebase Realtime Database
+- 🚨 Noise threshold detection
+- 📈 Dashboard-based monitoring
+
+🔗 **[View Project](YOUR_PROJECT_LINK)**
+
+---
+
+### 🕵️ QR Treasure Hunt
+
+> Interactive QR-based treasure hunt platform with team registration and admin controls.
+
+- 📱 QR code scanning
+- 👥 Team registration
+- 🔐 Access tokens
+- 🎯 Multi-level challenges
+- 🛠️ Admin dashboard
+- 📊 Live monitoring
+
+🔗 **[View Project](YOUR_PROJECT_LINK)**
+
+---
+
+## 🏆 Achievements
+
+🏅 Participated in **3+ Hackathons**
+
+🥇 Secured top positions in multiple hackathon events
+
+💰 Won **₹10,000 Cash Prize** at a 36-hour Hackathon
+
+👨‍💻 Worked on IoT and cybersecurity-based projects
+
+🔧 Hands-on experience with hardware and embedded systems
+
+---
+
+## 📚 Currently Learning
+
+```text
+Cybersecurity
+   ├── Web Pentesting
+   ├── Bug Bounty
+   ├── Network Security
+   ├── OWASP
+   └── Vulnerability Assessment
+
+Programming
+   ├── Python
+   ├── C++
+   └── JavaScript
+
+Computer Science
+   ├── DSA
+   ├── Computer Networks
+   └── Operating Systems
+
+IoT Security
+   ├── ESP32
+   ├── Embedded Systems
+   └── IoT Network Security
