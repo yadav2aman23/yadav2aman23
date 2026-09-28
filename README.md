@@ -11,7 +11,7 @@
 ## `whoami`
 
 <pre>
-Name        → Danish Meraj
+Name        → Aman Kumar Yadav 
 Role        → Engineering Student
 Environment → Linux
 Languages   → C · C++ · Python · 
